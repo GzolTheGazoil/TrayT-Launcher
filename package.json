@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "TrayTLauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "TrayT Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), TrayMiC",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
